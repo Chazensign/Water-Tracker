@@ -2,10 +2,10 @@
 /*Theme color*/
 body,
 #reset {
-	background-color: #52B3D9; /*change here*/
+	background-color: #ff7b00; /*change here*/
 }
 #plus-one {
-	color: #52B3D9; /*and here*/
+	color: black; /*and here*/
 }
 
 /*Choose your own theme color at http://www.flatuicolorpicker.com
@@ -23,7 +23,7 @@ edward: ABB7B7
 /*Habit Tracker Styles*/
 
 body {
-	color: white;
+	color: black;
 	text-align: center;
 	margin-top: 50px;
 	font-family: 'Indie Flower', cursive;
@@ -59,12 +59,13 @@ div:hover {
 }
 
 div {
-	font-family: monospace;
+	font-family: sans-serif;
 	color: rgba(255,255,255,0.6);
 }
 
 .underline {
 	text-decoration: underline;
+	color: black; 
 }
 
 ul {
